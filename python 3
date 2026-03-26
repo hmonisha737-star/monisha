@@ -1,0 +1,4 @@
+base_price =500
+gst=0.18*base_price
+total_price=base_price+gst
+print("Total Price=",total_price)
